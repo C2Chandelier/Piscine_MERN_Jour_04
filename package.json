@@ -1,0 +1,27 @@
+{
+  "name": "piscine_mern_jour_04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C2Chandelier/Piscine_MERN_Jour_04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C2Chandelier/Piscine_MERN_Jour_04/issues"
+  },
+  "homepage": "https://github.com/C2Chandelier/Piscine_MERN_Jour_04#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "crypto": "^1.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.5"
+  }
+}
